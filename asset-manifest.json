@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/dye-your-hair/static/css/main.886a304d.chunk.css",
-    "main.js": "/dye-your-hair/static/js/main.369b6fe6.chunk.js",
-    "main.js.map": "/dye-your-hair/static/js/main.369b6fe6.chunk.js.map",
+    "main.js": "/dye-your-hair/static/js/main.c1eec56c.chunk.js",
+    "main.js.map": "/dye-your-hair/static/js/main.c1eec56c.chunk.js.map",
     "runtime-main.js": "/dye-your-hair/static/js/runtime-main.6cb8e077.js",
     "runtime-main.js.map": "/dye-your-hair/static/js/runtime-main.6cb8e077.js.map",
-    "static/js/2.3915d929.chunk.js": "/dye-your-hair/static/js/2.3915d929.chunk.js",
-    "static/js/2.3915d929.chunk.js.map": "/dye-your-hair/static/js/2.3915d929.chunk.js.map",
+    "static/js/2.2f5f5af4.chunk.js": "/dye-your-hair/static/js/2.2f5f5af4.chunk.js",
+    "static/js/2.2f5f5af4.chunk.js.map": "/dye-your-hair/static/js/2.2f5f5af4.chunk.js.map",
     "static/js/3.5c28577b.chunk.js": "/dye-your-hair/static/js/3.5c28577b.chunk.js",
     "static/js/3.5c28577b.chunk.js.map": "/dye-your-hair/static/js/3.5c28577b.chunk.js.map",
     "index.html": "/dye-your-hair/index.html",
     "static/css/main.886a304d.chunk.css.map": "/dye-your-hair/static/css/main.886a304d.chunk.css.map",
-    "static/js/2.3915d929.chunk.js.LICENSE.txt": "/dye-your-hair/static/js/2.3915d929.chunk.js.LICENSE.txt",
+    "static/js/2.2f5f5af4.chunk.js.LICENSE.txt": "/dye-your-hair/static/js/2.2f5f5af4.chunk.js.LICENSE.txt",
     "static/media/index.css": "/dye-your-hair/static/media/dana-regular.8e271456.woff"
   },
   "entrypoints": [
     "static/js/runtime-main.6cb8e077.js",
-    "static/js/2.3915d929.chunk.js",
+    "static/js/2.2f5f5af4.chunk.js",
     "static/css/main.886a304d.chunk.css",
-    "static/js/main.369b6fe6.chunk.js"
+    "static/js/main.c1eec56c.chunk.js"
   ]
 }
